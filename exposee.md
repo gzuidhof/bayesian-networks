@@ -1,4 +1,4 @@
-Project proposal - *Video game reviews*
+Project Proposal - Video Game Ratings
 ---
 Joris van Vugt, Guido Zuidhof
 
